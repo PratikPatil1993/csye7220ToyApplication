@@ -34,7 +34,7 @@ class LoginPage extends Component {
 
                             <div className="card-body text-dark bg-warning mb-5">
                                 <p className="login" align="center">Toy Exchanging Application</p>
-                                <p className="login">GROUP 4: Lakshit Talreja | Pratik Patel | Novotsono Natso
+                                <p className="login">GROUP 4: Lakshit Talreja | Pratik Patel
                                 </p>
                                 <p className="login">An application for exchanging toys online instead of buying brand new toys.
                                     The application is for the community of parents whose children outgrow the toys quickly. 
